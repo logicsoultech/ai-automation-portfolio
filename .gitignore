@@ -218,3 +218,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Rahasia & kredensial (WAJIB)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+credentials.json
+token.json
+*credentials*.json
+
+# n8n
+.n8n/
+n8n-data/
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Lokal
+*.log
+tmp/
+
+# Model lokal (file besar)
+*.gguf
+*.bin
+models/
