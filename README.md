@@ -1,5 +1,7 @@
 # AI Automation Portfolio
 
-Portofolio belajar dan proyek otomatisasi AI saya: n8n, Python, dan integrasi API.
+Workflows and scripts built with n8n, Python, and APIs.
 
-Latar belakang saya sebagai Technical Artist membantu saya memahami pipeline dan alur kerja visual.
+Each project lives in its own folder with a short write-up of the problem, the approach, and the result.
+
+Projects will be added here as I build them.
