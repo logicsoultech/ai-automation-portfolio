@@ -1,0 +1,13 @@
+
+{
+    "name": "Sarah Johson",
+    "email": "sarah@email.com",
+    "age": 28,
+    "city": "Austin",
+    "is_active_member": true,
+    "cancellation_date": null,
+    "address": {
+        "street": "123 Main Street",
+        "postal_code": "78701",
+    }
+}
